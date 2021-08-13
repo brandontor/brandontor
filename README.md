@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey there, I'm Brandon :wave:
 
-<!--
-**brandontor/brandontor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Front-end Developer :computer: Gamer :crossed_swords: Bookworm :blue_book: <p style="font-size: 14px">(Occasional Lo-fi enthusiast)</p>
+### Currently I am:  
+- Building projects using React :+1:
+- Trying to learn everything  :seedling:
+- Open to collaborating with other Developers :handshake:
 
-Here are some ideas to get you started:
+2021 Goals:muscle:: 
+- Contribute to Open source
+- Land my first developer job 
+- Join a Jiu-Jitsu school
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :zap: Fun facts about me: 
+
+I am a Part Time Dungeon Master :mage:, Tolkien Lover, and I am interested in Crypto and would like to break into blockchain developments in the future.
+
