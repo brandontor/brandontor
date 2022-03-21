@@ -2,13 +2,13 @@
 
 ## I'm a Front-end Developer :computer: Gamer :crossed_swords: Bookworm :blue_book: <p style="font-size: 14px">(Occasional Lo-fi enthusiast)</p>
 ### Currently I am:  
-- Building projects using React :+1:
+- Building projects using React & Next.js :+1:
 - Trying to learn everything  :seedling:
 - Open to collaborating with other Developers :handshake:
 
-2021 Goals:muscle:: 
+2022 Goals:muscle:: 
 - Contribute to Open source
-- Land my first developer job 
+- Land my first Non-internship developer job 
 - Join a Jiu-Jitsu school
 
 ### :zap: Fun facts about me: 
