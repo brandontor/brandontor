@@ -7,11 +7,9 @@
 - Open to collaborating with other Developers :handshake:
 
 2022 Goals:muscle:: 
-- Contribute to Open source
-- Land my first Non-internship developer job 
 - Join a Jiu-Jitsu school
 
 ### :zap: Fun facts about me: 
 
-I am a Part Time Dungeon Master :mage:, Tolkien Lover, and I am interested in Crypto and would like to break into blockchain developments in the future.
+I am a Part Time Dungeon Master :mage:, and Tolkien Lover.
 
