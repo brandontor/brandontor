@@ -6,9 +6,6 @@
 - Trying to learn everything  :seedling:
 - Open to collaborating with other Developers :handshake:
 
-2022 Goals:muscle:: 
-- Join a Jiu-Jitsu school
-
 ### :zap: Fun facts about me: 
 
 I am a Part Time Dungeon Master :mage:, and Tolkien Lover.
